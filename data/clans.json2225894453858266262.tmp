@@ -1,0 +1,369 @@
+[
+  {
+    "owner": "muk",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "raid",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "curved",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "Raiders",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "daddyedu",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "haze",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "irelia",
+    "rankedMembers": {
+      "arcane_comet": "GENERAL"
+    },
+    "disabled": false,
+    "prefix": "CoX",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "husker",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "husker",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "akay",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "Akay",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "ahhcypha",
+    "rankedMembers": {
+      "curved": "CORPORAL",
+      "saturated": "RECRUIT",
+      "drow_ranger": "GENERAL",
+      "mew": "CORPORAL"
+    },
+    "disabled": false,
+    "prefix": "toa",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "exiled",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "exiled",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "nick",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "edgefallpk",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "spread_eagle",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "Raids",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "masvenc",
+    "rankedMembers": {
+      "arcane_comet": "FRIENDS",
+      "coins": "GENERAL",
+      "astro": "GENERAL",
+      "w1llg4m3r": "FRIENDS"
+    },
+    "disabled": false,
+    "prefix": "masvenc",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "drow_ranger",
+    "rankedMembers": {
+      "x": "FRIENDS"
+    },
+    "disabled": false,
+    "prefix": "drow ranger",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "mew",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "smh",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "nova",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "nova",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "arcane_comet",
+    "rankedMembers": {
+      "irelia": "FRIENDS"
+    },
+    "disabled": false,
+    "prefix": "Gambling",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "cypha_v2",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "cypha",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "coins",
+    "rankedMembers": {
+      "take_3": "RECRUIT",
+      "arcane_comet": "GENERAL",
+      "saturated": "GENERAL",
+      "emaraucho": "LIEUTENANT",
+      "zero": "GENERAL",
+      "astro": "GENERAL",
+      "x": "CORPORAL",
+      "oswaldo": "RECRUIT",
+      "masvenc": "GENERAL",
+      "coins_2": "GENERAL",
+      "sav": "LIEUTENANT",
+      "akay": "GENERAL"
+    },
+    "disabled": false,
+    "prefix": "coins",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "sav",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "sav cox",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "uimew",
+    "rankedMembers": {
+      "arcane_comet": "GENERAL",
+      "saturated": "GENERAL"
+    },
+    "disabled": false,
+    "prefix": "uim",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "saturated",
+    "rankedMembers": {
+      "luffi": "CORPORAL",
+      "ahhcypha": "CAPTAIN",
+      "x": "GENERAL"
+    },
+    "disabled": false,
+    "prefix": "satu",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "blazex",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "Test",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "batman",
+    "rankedMembers": {
+      "curved": "FRIENDS",
+      "arcane_comet": "FRIENDS"
+    },
+    "disabled": false,
+    "prefix": "1235",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "fristi",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "fristi",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "help",
+    "rankedMembers": {
+      "tupac": "ADMINISTRATOR",
+      "saturated": "ADMINISTRATOR",
+      "tobtester": "ADMINISTRATOR",
+      "arcane_comet": "ADMINISTRATOR",
+      "eazy": "ADMINISTRATOR",
+      "brodie": "CAPTAIN",
+      "mew": "GENERAL",
+      "ahhcypha": "CAPTAIN",
+      "maxi": "CAPTAIN",
+      "nova": "ADMINISTRATOR",
+      "akay": "CAPTAIN",
+      "coins": "CAPTAIN",
+      "nick": "ADMINISTRATOR"
+    },
+    "disabled": false,
+    "prefix": "help",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "astro",
+    "rankedMembers": {
+      "coins": "GENERAL",
+      "masvenc": "GENERAL",
+      "zero": "GENERAL"
+    },
+    "disabled": false,
+    "prefix": "astro",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "x",
+    "rankedMembers": {
+      "curved": "FRIENDS",
+      "coins": "FRIENDS",
+      "tupac": "FRIENDS",
+      "ahhcypha": "FRIENDS",
+      "exiled": "FRIENDS",
+      "eazy": "FRIENDS",
+      "maxi": "FRIENDS",
+      "l": "FRIENDS"
+    },
+    "disabled": false,
+    "prefix": "help",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "CORPORAL",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "giart13",
+    "rankedMembers": {},
+    "disabled": true,
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "zulrahd",
+    "rankedMembers": {
+      "saturated": "GENERAL"
+    },
+    "disabled": false,
+    "prefix": "Wins wild",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "arcane",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "raids",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  },
+  {
+    "owner": "saturated1",
+    "rankedMembers": {},
+    "disabled": false,
+    "prefix": "satu",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  }
+]

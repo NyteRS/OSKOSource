@@ -1,0 +1,44 @@
+worlds:
+  localhost:
+    number: 1
+    host: "127.0.0.1"
+    port: 43594
+    activity: "OS KO"
+    private: false
+    visibility: PUBLIC
+    verifyPasswords: true
+    location: NETHERLANDS
+    logback: "logback-dev"
+    types:
+      - MEMBERS
+    api:
+      enabled: false
+      scheme: "http"
+      host: "0.0.0.0"
+      port: 8080
+      token: "REPLACE_WITH_TOKEN"
+  beta:
+    number: 2
+    host: "217.154.224.126"
+    port: 43594
+    activity: "OS KO Beta"
+    private: false
+    visibility: BETA
+    verifyPasswords: false
+    location: UNITED_STATES_OF_AMERICA
+    logback: "logback-beta"
+    types:
+      - MEMBERS
+  main:
+    number: 1
+    host: "217.154.224.126"
+    port: 43594
+    activity: "OS KO"
+    private: false
+    visibility: PUBLIC
+    verifyPasswords: true
+    location: UNITED_STATES_OF_AMERICA
+    logback: "logback-live"
+    types:
+      - MEMBERS
+
