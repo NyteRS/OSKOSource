@@ -1,0 +1,15 @@
+[
+  {
+    "owner": "help",
+    "rankedMembers": {
+      "negs": "ADMINISTRATOR",
+      "nyte": "ADMINISTRATOR"
+    },
+    "disabled": false,
+    "prefix": "help",
+    "enterRank": "ANYONE",
+    "talkRank": "ANYONE",
+    "kickRank": "OWNER",
+    "permBannedMembers": []
+  }
+]
