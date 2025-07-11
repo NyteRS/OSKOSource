@@ -1,4 +1,2 @@
 /cache/*.idx*
 /cache/*.dat*
-/plugins.dat
-objects/xteas.json.bak
