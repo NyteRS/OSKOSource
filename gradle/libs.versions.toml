@@ -111,7 +111,7 @@ kotlinpoet = { module = "com.squareup:kotlinpoet", version = "2.0.0" }
 jsoup = { module = "org.jsoup:jsoup", version = "1.18.3" }
 kryo = { module = "com.esotericsoftware:kryo", version = "5.6.2" }
 zip4j = { module = "net.lingala.zip4j:zip4j", version = "2.11.5" }
-tradukisto = { module = "pl.allegro.finance:tradukisto", version = "3.5.0" }
+tradukisto = { module = "pl.allegro.finance:tradukisto", version = "4.1.0" }
 kaml = { module = "com.charleskorn.kaml:kaml", version = "0.67.0" }
 fastutil = { module = "it.unimi.dsi:fastutil", version = "8.5.15" }
 classgraph = { module = "io.github.classgraph:classgraph", version = "4.8.179" }
